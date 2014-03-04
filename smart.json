@@ -3,7 +3,7 @@
   "description": "Signals.js --Custom Event/Messaging system for JavaScript packaged for meteor",
   "homepage": "https://github.com/ruzz/meteor-signals-js.git",
   "author": "imruzz <ruzz@brightmonkey.ca> (http://brightmonkey.ca)",
-  "version": "1.0",
+  "version": "1.0.0",
   "git": "https://github.com/ruzz/meteor-signals-js.git",
   "packages": {}
 }
